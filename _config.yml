@@ -23,10 +23,10 @@ title: ROSHITECH # the main title
 tagline: Blog by Roshan # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Discover insightful articles and resources on Tech, SAAS Startups at ROSHITECH. Our blog is dedicated to furnishing tech enthusiasts with invaluable information, tips, and updates, all aimed at enhancing their comprehension of Tech and SAAS StartUps.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://suganros56.github.io"
 
 github:
   username: suganros56 # change to your github username
@@ -45,7 +45,7 @@ social:
     - https://github.com/suganros56 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/roshan-suganthan/
 
 google_site_verification: # fill in to your verification string
 
