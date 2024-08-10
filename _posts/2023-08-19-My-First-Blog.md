@@ -1,6 +1,6 @@
 ---
 title: My First blog
-author: Roshan
+author: Roshan Suganthan
 date: 2023-08-19 00:37:00 +0800
 categories: [Blogging]
 tags: [writing]
